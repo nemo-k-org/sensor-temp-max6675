@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "C3975149")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C3975149.elibz")(options "")(descr ""))
+  (lib (name "C5174649")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C5174649.elibz")(options "")(descr ""))
+  (lib (name "C16030")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C16030.elibz")(options "")(descr ""))
+  (lib (name "C5349550")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C5349550.elibz")(options "")(descr ""))
+  (lib (name "C5173665")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C5173665.elibz")(options "")(descr ""))
+)
